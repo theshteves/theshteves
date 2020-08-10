@@ -1,4 +1,19 @@
-### Hi there 👋
+# I help new developers 💃🕺 stand out
+
+> "How do I get a job?"
+
+We're figuring this out _together_
+
+**=> [Creators Who Code](https://creatorswhocode.com)**
+
+* Learning to code?
+* Starting your first business?
+* View life as an unending quest to better yourself?
+
+Email me anytime
+<br>for any reason:
+
+> hello@creatorswhocode.com
 
 <!--
 **theshteves/theshteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

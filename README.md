@@ -1,3 +1,7 @@
+[<img align="left" alt="Steven Kneiser | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/theshteves)
+[<img align="left" alt="Steven Kneiser | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/stevenkneiser)
+<br>
+
 # I help new developers 💃🕺 stand out
 
 > "How do I get a job?"
@@ -15,17 +19,13 @@ Email me anytime
 
 > hello@creatorswhocode.com
 
-<!--
-**theshteves/theshteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✍️ Latest Blog Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+![theshteves github stats](https://github-readme-stats.vercel.app/api?username=theshteves&theme=gotham&count_private=true)

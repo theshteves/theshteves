@@ -28,4 +28,5 @@ Email me anytime
 
 ---
 
-![theshteves github stats](https://github-readme-stats.vercel.app/api?username=theshteves&theme=gotham&count_private=true)
+![theshteves Github stats](https://github-readme-stats.vercel.app/api?username=theshteves&show_icons=true&count_private=true&hide=contribs)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshteves&layout=compact)

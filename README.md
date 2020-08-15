@@ -20,10 +20,10 @@ Email me anytime
 
 <!-- BLOG-POST-LIST:START -->
 - [Nobody Cares About Certifications](https://creatorswhocode.com/blog/bad-certifications)
+- [Am I Ready To Apply For Jobs?](https://creatorswhocode.com/blog/start-today)
 - [Waking Up With Dread](https://creatorswhocode.com/blog/waking-up-with-dread)
 - [Ignore Your Resume Like A Recruiter](https://creatorswhocode.com/blog/resume-advice)
 - [Employee-Market Fit](https://creatorswhocode.com/blog/employee-market-fit)
-- [Where Do I Start With Algorithms?](https://creatorswhocode.com/blog/first-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ---

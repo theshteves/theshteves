@@ -19,11 +19,11 @@ Email me anytime
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whose Ladder Are You Climbing?](https://creatorswhocode.com/blog/whose-ladder)
 - [Nobody Cares About Certifications](https://creatorswhocode.com/blog/bad-certifications)
 - [Am I Ready To Apply For Jobs?](https://creatorswhocode.com/blog/start-today)
 - [Junior Jobs &amp; Absurd Requirements](https://creatorswhocode.com/blog/junior-requirements)
 - [Waking Up With Dread](https://creatorswhocode.com/blog/waking-up-with-dread)
-- [Ignore Your Resume Like A Recruiter](https://creatorswhocode.com/blog/resume-advice)
 <!-- BLOG-POST-LIST:END -->
 
 ---

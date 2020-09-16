@@ -20,10 +20,10 @@ Email me anytime
 
 <!-- BLOG-POST-LIST:START -->
 - [Whose Ladder Are You Climbing?](https://creatorswhocode.com/blog/whose-ladder)
+- [Coders Vs Creators](https://creatorswhocode.com/blog/coders-vs-creators)
 - [Nobody Cares About Certifications](https://creatorswhocode.com/blog/bad-certifications)
 - [Am I Ready To Apply For Jobs?](https://creatorswhocode.com/blog/start-today)
 - [Junior Jobs &amp; Absurd Requirements](https://creatorswhocode.com/blog/junior-requirements)
-- [Waking Up With Dread](https://creatorswhocode.com/blog/waking-up-with-dread)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -22,8 +22,8 @@ Email me anytime
 - [Whose Ladder Are You Climbing?](https://creatorswhocode.com/blog/whose-ladder)
 - [Coders Vs Creators](https://creatorswhocode.com/blog/coders-vs-creators)
 - [Nobody Cares About Certifications](https://creatorswhocode.com/blog/bad-certifications)
+- [The Life-Changing Magic of Following Up](https://creatorswhocode.com/blog/follow-up)
 - [Am I Ready To Apply For Jobs?](https://creatorswhocode.com/blog/start-today)
-- [Junior Jobs &amp; Absurd Requirements](https://creatorswhocode.com/blog/junior-requirements)
 <!-- BLOG-POST-LIST:END -->
 
 ---

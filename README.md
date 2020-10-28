@@ -19,11 +19,11 @@ Email me anytime
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Be A Numbers Game](https://creatorswhocode.com/blog/numbers-game)
 - [Whose Ladder Are You Climbing?](https://creatorswhocode.com/blog/whose-ladder)
 - [Coders Vs Creators](https://creatorswhocode.com/blog/coders-vs-creators)
 - [Nobody Cares About Certifications](https://creatorswhocode.com/blog/bad-certifications)
 - [The Life-Changing Magic of Following Up](https://creatorswhocode.com/blog/follow-up)
-- [Am I Ready To Apply For Jobs?](https://creatorswhocode.com/blog/start-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---

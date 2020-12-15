@@ -20,10 +20,10 @@ Email me anytime
 
 <!-- BLOG-POST-LIST:START -->
 - [But I Need Experience To Get A Job](https://creatorswhocode.com/blog/but-i-need-experience)
+- [Don’t Dare Dabble](https://creatorswhocode.com/blog/dont-dare-dabble)
 - [Don’t Be A Numbers Game](https://creatorswhocode.com/blog/numbers-game)
 - [Whose Ladder Are You Climbing?](https://creatorswhocode.com/blog/whose-ladder)
 - [Coders Vs Creators](https://creatorswhocode.com/blog/coders-vs-creators)
-- [Nobody Cares About Certifications](https://creatorswhocode.com/blog/bad-certifications)
 <!-- BLOG-POST-LIST:END -->
 
 ---

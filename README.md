@@ -1,4 +1,4 @@
-# I help new developers 💃🕺 stand out
+# I help new developers<br>💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
 
 > "How do I get a job?"
 

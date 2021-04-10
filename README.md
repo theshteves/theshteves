@@ -19,11 +19,11 @@ Email me anytime
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Much Is Good Enough?](https://creatorswhocode.com/blog/good-enough)
 - [But I Need Experience To Get A Job](https://creatorswhocode.com/blog/but-i-need-experience)
 - [Don’t Dare Dabble](https://creatorswhocode.com/blog/dont-dare-dabble)
 - [Nobody Cares About Complexity](https://creatorswhocode.com/blog/about-complexity)
 - [Don’t Be A Numbers Game](https://creatorswhocode.com/blog/numbers-game)
-- [Whose Ladder Are You Climbing?](https://creatorswhocode.com/blog/whose-ladder)
 <!-- BLOG-POST-LIST:END -->
 
 ---

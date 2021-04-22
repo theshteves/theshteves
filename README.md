@@ -20,10 +20,10 @@ Email me anytime
 
 <!-- BLOG-POST-LIST:START -->
 - [How Much Is Good Enough?](https://creatorswhocode.com/blog/good-enough)
+- [Search Like An Executive](https://creatorswhocode.com/blog/like-an-executive)
 - [But I Need Experience To Get A Job](https://creatorswhocode.com/blog/but-i-need-experience)
 - [Don’t Dare Dabble](https://creatorswhocode.com/blog/dont-dare-dabble)
 - [Nobody Cares About Complexity](https://creatorswhocode.com/blog/about-complexity)
-- [Don’t Be A Numbers Game](https://creatorswhocode.com/blog/numbers-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---

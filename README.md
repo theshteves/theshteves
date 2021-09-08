@@ -1,22 +1,13 @@
 # I help new developers<br>💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
 
-> "How do I get a job?"
+> "How do I get a job in software?"
+> <br> "How do I stand out?"
 
-We're figuring this out _together_
-<br>at [**Creators Who Code**](https://creatorswhocode.com)
-
-* Learning to code?
-* Starting your first business?
-* View life as an unending quest to better yourself?
-
-Email me anytime
-<br>for any reason:
-
-> hello@creatorswhocode.com
+We're figuring this out _together_ at [**Creators Who Code**](https://creatorswhocode.com)
 
 ---
 
-### ✍️ Latest Blog Posts
+### ✍️ Recent Essays
 
 <!-- BLOG-POST-LIST:START -->
 - [How Much Is Good Enough?](https://creatorswhocode.com/blog/good-enough)
@@ -25,6 +16,17 @@ Email me anytime
 - [Don’t Dare Dabble](https://creatorswhocode.com/blog/dont-dare-dabble)
 - [Nobody Cares About Complexity](https://creatorswhocode.com/blog/about-complexity)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+> 🚀 pssst... **I recently launched [a personal blog & newsletter](https://stevenkneiser.com)** for the most interesting ideas I find across the web
+
+* Learning to code?
+* Starting your first business?
+* View life as an unending quest to better yourself?
+
+Email me anytime for any reason:
+<br> stevenkneiser@gmail.com
 
 ---
 

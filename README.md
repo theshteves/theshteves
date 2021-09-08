@@ -3,11 +3,10 @@
 > "How do I get a job in software?"
 > <br> "How do I stand out?"
 
-We're figuring this out _together_ at [**Creators Who Code**](https://creatorswhocode.com)
+We're figuring this out _together_
+<br> at [**Creators Who Code**](https://creatorswhocode.com)
 
----
-
-### ✍️ Recent Essays
+###### ✍️ Recent Essays
 
 <!-- BLOG-POST-LIST:START -->
 - [How Much Is Good Enough?](https://creatorswhocode.com/blog/good-enough)
@@ -19,7 +18,7 @@ We're figuring this out _together_ at [**Creators Who Code**](https://creatorswh
 
 ---
 
-> 🚀 pssst... **I recently launched [a personal blog & newsletter](https://stevenkneiser.com)** for the most interesting ideas I find across the web
+> 🚀 pssst... **I also just launched [a personal blog & newsletter](https://stevenkneiser.com)** for the most interesting ideas I find across the web
 
 * Learning to code?
 * Starting your first business?

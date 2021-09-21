@@ -9,11 +9,11 @@ We're figuring this out _together_
 ###### ✍️ Recent Essays
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s Your Investment Thesis?](https://creatorswhocode.com/blog/investment-thesis)
 - [How Much Is Good Enough?](https://creatorswhocode.com/blog/good-enough)
 - [Search Like An Executive](https://creatorswhocode.com/blog/like-an-executive)
 - [But I Need Experience To Get A Job](https://creatorswhocode.com/blog/but-i-need-experience)
 - [Don’t Dare Dabble](https://creatorswhocode.com/blog/dont-dare-dabble)
-- [Nobody Cares About Complexity](https://creatorswhocode.com/blog/about-complexity)
 <!-- BLOG-POST-LIST:END -->
 
 ---

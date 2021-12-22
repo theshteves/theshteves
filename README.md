@@ -1,5 +1,7 @@
 # I help new developers<br>💃🕺 𝕊𝕋𝔸ℕ𝔻 𝕆𝕌𝕋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/theshteves?style=social)](https://twitter.com/theshteves) ![]() ![]() ![]() ![]() [![GitHub Follow](https://img.shields.io/github/followers/theshteves?style=social)](https://github.com/theshteves)
+  
 > "How do I get a job in software?"
 > <br> "How do I stand out?"
 

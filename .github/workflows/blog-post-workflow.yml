@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour (UTC)
+    # Runs every day (00:00 UTC)
     - cron: '0 0 * * *'
 
 jobs:
